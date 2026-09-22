@@ -16,6 +16,7 @@ Responsive navigation — a collapsible mobile menu
 Installation
 
 git clone https://github.com/LimeRider/MyBikeLandinng.git
+
 cd MyBikeLandinng
 npm install
 
